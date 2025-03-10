@@ -4,6 +4,7 @@
 ผมซื้อโปรแกรมนี้มาในราคา 300 บาทแต่ผมไม่รู้ว่าเขาจะขายทำไม เพราะของพวกนี้มีไว้ศึกษา ผมเลยแจกฟรี ผมได้เงินจากมันเยอะแล้ว
 
 Windows > node ddos.js <GET/POST> <target> <time> <threads> <ratelimit> <proxy>
+
 Linux > git clone https://github.com/KAMUIXGOD/DoS-Layer-7
 ขั้นตอต่อไปสำหรับ linux > node ddos.js <GET/POST> <target> <time> <threads> <ratelimit> <proxy>
 
